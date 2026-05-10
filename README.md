@@ -159,7 +159,7 @@ flutter run # For Mobile
 
 ---
 
-## 🤝 Social Links
+## 🤝 Contributors
 
 - [Youssef Mohamed](https://github.com/youssefmdev22)
 - [Moaz Osama](https://github.com/moazosama1)
